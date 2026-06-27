@@ -118,4 +118,4 @@ streamlit run app.py
 
 ## Author
 
-**Your Name** · [LinkedIn](https://linkedin.com) · [GitHub](https://github.com/your-username)
+**Ankita Dhara** · [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/ankita-dhara-7333a2299/)) · [GitHub]((https://github.com/ankitadhara28))
